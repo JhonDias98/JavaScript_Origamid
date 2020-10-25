@@ -4,8 +4,8 @@
   const marca = 'Fiat';
   let portas = 4;
 }
-console.log(var, marca, portas); 
-//Está utilizando um nome reservado
+console.log(marca, portas); 
+//Estava utilizando um nome reservado
 //Está tetando acessar a variável "portas" fora de seu escopo
 
 
